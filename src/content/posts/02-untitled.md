@@ -7,3 +7,7 @@ isPublish: true
 ---
 
 ## Hello World
+
+```javascript
+console.log("hello world")
+```
