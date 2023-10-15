@@ -14,7 +14,7 @@ const theme: Theme = {
   colors: {
     primary: "indigo",
     blur: {
-      top: "indogo",
+      top: "indigo",
       bottom: "violet",
     },
   },
